@@ -1,0 +1,25 @@
+Testsuite: prizyapp.ProductSpec
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 5.248 sec
+------------- Standard Output ---------------
+--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+------------- ---------------- ---------------
+
+Testcase: Test that checks for nullable on barcode took 5.044 sec
+Testcase: Test that checks for nullable  on productName took 0.041 sec
+Testcase: Test that checks for nullable on description  took 0.027 sec
+Testcase: Test that checks product barcode is not is blank  took 0.027 sec
+Testcase: Test that checks product ProductName is not is blank  took 0.023 sec
+Testcase: Test that checks product description is not is blank  took 0.026 sec

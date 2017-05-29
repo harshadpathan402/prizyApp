@@ -1,0 +1,9 @@
+--Output from Test that checks for nullable on price--
+--Output from Test that checks for nullable on storeName--
+--Output from Test that checks for nullable on note--
+--Output from Test that checks for blank on price--
+--Output from Test that checks for blank on storeName--
+--Output from Test that checks for blank on note. Here note is not compulsory field here--
+--Output from Test that checks for min price--
+--Output from Test that checks for max price--
+--Output from Test that checks for nigative value --

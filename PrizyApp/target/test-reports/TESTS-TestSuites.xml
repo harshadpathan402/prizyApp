@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="sarathi005" id="0" name="PriceSpec" package="prizyapp" tests="9" time="0.656" timestamp="2017-03-22T05:43:35">
+      <properties />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on price" time="0.226" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on storeName" time="0.06" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on note" time="0.055" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on price" time="0.029" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on storeName" time="0.051" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on note. Here note is not compulsory field here" time="0.046" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for min price" time="0.027" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for max price" time="0.068" />
+
+      <testcase classname="prizyapp.PriceSpec" name="Test that checks for nigative value " time="0.07" />
+
+      <system-out><![CDATA[--Output from Test that checks for nullable on price--
+--Output from Test that checks for nullable on storeName--
+--Output from Test that checks for nullable on note--
+--Output from Test that checks for blank on price--
+--Output from Test that checks for blank on storeName--
+--Output from Test that checks for blank on note. Here note is not compulsory field here--
+--Output from Test that checks for min price--
+--Output from Test that checks for max price--
+--Output from Test that checks for nigative value --
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test that checks for nullable on price--
+--Output from Test that checks for nullable on storeName--
+--Output from Test that checks for nullable on note--
+--Output from Test that checks for blank on price--
+--Output from Test that checks for blank on storeName--
+--Output from Test that checks for blank on note. Here note is not compulsory field here--
+--Output from Test that checks for min price--
+--Output from Test that checks for max price--
+--Output from Test that checks for nigative value --
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="sarathi005" id="1" name="ProductSpec" package="prizyapp" tests="6" time="5.248" timestamp="2017-03-22T05:43:30">
+      <properties />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable on barcode" time="5.044" />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable  on productName" time="0.041" />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable on description " time="0.027" />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks product barcode is not is blank " time="0.027" />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks product ProductName is not is blank " time="0.023" />
+
+      <testcase classname="prizyapp.ProductSpec" name="Test that checks product description is not is blank " time="0.026" />
+
+      <system-out><![CDATA[--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+]]></system-err>
+
+  </testsuite>
+</testsuites>

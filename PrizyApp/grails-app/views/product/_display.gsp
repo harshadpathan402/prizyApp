@@ -1,0 +1,1 @@
+<span style="text-align: right;" class="property-value" aria-labelledby="idealPrice-label"><g:formatNumber number="${price}" type="currency" currencyCode="USD"/></span>

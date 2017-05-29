@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sarathi005" name="prizyapp.PriceSpec" tests="9" time="0.656" timestamp="2017-03-22T05:43:35">
+  <properties />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on price" time="0.226" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on storeName" time="0.06" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for nullable on note" time="0.055" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on price" time="0.029" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on storeName" time="0.051" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for blank on note. Here note is not compulsory field here" time="0.046" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for min price" time="0.027" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for max price" time="0.068" />
+  <testcase classname="prizyapp.PriceSpec" name="Test that checks for nigative value " time="0.07" />
+  <system-out><![CDATA[--Output from Test that checks for nullable on price--
+--Output from Test that checks for nullable on storeName--
+--Output from Test that checks for nullable on note--
+--Output from Test that checks for blank on price--
+--Output from Test that checks for blank on storeName--
+--Output from Test that checks for blank on note. Here note is not compulsory field here--
+--Output from Test that checks for min price--
+--Output from Test that checks for max price--
+--Output from Test that checks for nigative value --
+]]></system-out>
+  <system-err><![CDATA[--Output from Test that checks for nullable on price--
+--Output from Test that checks for nullable on storeName--
+--Output from Test that checks for nullable on note--
+--Output from Test that checks for blank on price--
+--Output from Test that checks for blank on storeName--
+--Output from Test that checks for blank on note. Here note is not compulsory field here--
+--Output from Test that checks for min price--
+--Output from Test that checks for max price--
+--Output from Test that checks for nigative value --
+]]></system-err>
+</testsuite>

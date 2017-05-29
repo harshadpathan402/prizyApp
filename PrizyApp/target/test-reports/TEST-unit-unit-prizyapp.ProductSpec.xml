@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="sarathi005" name="prizyapp.ProductSpec" tests="6" time="5.248" timestamp="2017-03-22T05:43:30">
+  <properties />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable on barcode" time="5.044" />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable  on productName" time="0.041" />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks for nullable on description " time="0.027" />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks product barcode is not is blank " time="0.027" />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks product ProductName is not is blank " time="0.023" />
+  <testcase classname="prizyapp.ProductSpec" name="Test that checks product description is not is blank " time="0.026" />
+  <system-out><![CDATA[--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+]]></system-out>
+  <system-err><![CDATA[--Output from Test that checks for nullable on barcode--
+--Output from Test that checks for nullable  on productName--
+--Output from Test that checks for nullable on description --
+--Output from Test that checks product barcode is not is blank --
+--Output from Test that checks product ProductName is not is blank --
+--Output from Test that checks product description is not is blank --
+]]></system-err>
+</testsuite>
