@@ -1,6 +1,0 @@
---Output from Test that checks for nullable on barcode--
---Output from Test that checks for nullable  on productName--
---Output from Test that checks for nullable on description --
---Output from Test that checks product barcode is not is blank --
---Output from Test that checks product ProductName is not is blank --
---Output from Test that checks product description is not is blank --

@@ -34,9 +34,9 @@
 			
 				<g:if test="${productInstance?.productName}">
 				<li class="fieldcontain">
-					<span id="productname-label" class="property-label"><g:message code="product.productname.label" default="Productname" /></span>
+					<span id="productName-label" class="property-label"><g:message code="product.productName.label" default="productName" /></span>
 					
-						<span class="property-value" aria-labelledby="productname-label"><g:fieldValue bean="${productInstance}" field="productName"/></span>
+						<span class="property-value" aria-labelledby="productName-label"><g:fieldValue bean="${productInstance}" field="productName"/></span>
 				</li>
 				</g:if>
 			

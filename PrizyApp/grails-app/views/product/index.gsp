@@ -26,7 +26,7 @@
 					
 						<g:sortableColumn property="barcode" title="${message(code: 'product.barcode.label', default: 'Barcode')}" />
 					
-						<g:sortableColumn property="productname" title="${message(code: 'product.productname.label', default: 'Productname')}" />
+						<g:sortableColumn property="ProductName" title="${message(code: 'product.ProductName.label', default: 'ProductName')}" />
 					
 						<g:sortableColumn property="description" title="${message(code: 'product.description.label', default: 'Description')}" />
 					
@@ -38,7 +38,7 @@
 					
 						<td><g:link action="show" id="${productInstance.barcode}">${fieldValue(bean: productInstance, field: "barcode")}</g:link></td>
 					
-						<td>${fieldValue(bean: productInstance, field: "productName")}</td>
+				  		<td>${fieldValue(bean: productInstance, field: "productName")}</td> 
 					
 						<td>${fieldValue(bean: productInstance, field: "description")}</td>
 					

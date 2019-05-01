@@ -11,12 +11,12 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: productInstance, field: 'productname', 'error')} required">
-	<label for="productname">
-		<g:message code="product.productname.label" default="Productname" />
+<div class="fieldcontain ${hasErrors(bean: productInstance, field: 'productName', 'error')} required">
+	<label for="productName">
+		<g:message code="product.productName.label" default="productName" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="productname" required="" value="${productInstance?.productname}"/>
+	<g:textField name="productName" required="" value="${productInstance?.productName}"/>
 
 </div>
 
